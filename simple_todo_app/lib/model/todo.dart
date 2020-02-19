@@ -32,7 +32,7 @@ class Todo{
     }
   }
 
-  set data(String newDate){
+  set date(String newDate){
     _date = newDate;
   }
 
